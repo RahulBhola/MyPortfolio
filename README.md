@@ -9,3 +9,5 @@ Command Used:
 6. npm i react-simple-typewriter (for loading multiple typing styling after a particular time)
 7. npm install react-icons --save (so that we can use icons)
 8. npm i framer-motion(use to create interactive animations in React applications)
+9. npm install react-slick --save
+10. npm install slick-carousel --save (used for Responsive Design, Customizable Settings, Touch and Swipe Support, Lazy Loading, Custom Arrows and Dots, Animation Effects)
