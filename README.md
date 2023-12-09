@@ -7,3 +7,4 @@ Command Used:
 4. npm tailwindcss init
 5. npm i react-scroll (for scrolling to home, feature and many more component after clicking on home and feature on navbar)
 6. npm i react-simple-typewriter (for loading multiple typing styling after a particular time)
+7. npm install react-icons --save (so that we can use icons)
