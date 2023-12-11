@@ -15,8 +15,11 @@ Command Used:
 
 Here are pics of my personal Portfolio
 
-Home 
+Home Page:-
 ![Screenshot (374)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/b7b7b24e-d2cc-479a-9701-94c5d8f49437)
 
-
+Features Page:-
 ![Screenshot (375)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/cde4bcb4-c2da-4afd-bc18-1a3683d5b135)
+
+Project Page:-
+![Screenshot (377)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/a753c288-2e0a-4119-b5bf-c2a445d9bb32)
