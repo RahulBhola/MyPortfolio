@@ -29,4 +29,16 @@ Project Page:-
 ![Screenshot (378)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/ae0f1625-edc7-433c-9c86-a216eb836013)
 
 ![Screenshot (379)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/27a55912-b61a-4d59-a9e5-de6c4aa9673b)
-![Screenshot (380)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/0c51e293-ce76-4a61-8b28-a11af21a61be)
+![Screenshot (380)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/4da60b29-2789-4861-a060-40f8d1a632f6)
+
+Certificate Page:-
+
+![Screenshot (381)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/891c2472-a0c3-4311-a213-e448ed54ac68)
+
+Contact Page:-
+
+![Screenshot (382)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/e9a167d6-6450-4241-bdde-a02e78c501dd)
+
+VedioCV:- 
+
+![Screenshot (383)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/e6d12e7a-07b2-4984-bae0-da705791dbf3)
