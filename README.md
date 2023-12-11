@@ -12,3 +12,11 @@ Command Used:
 9. npm install react-slick --save
 10. npm install slick-carousel --save (used for Responsive Design, Customizable Settings, Touch and Swipe Support, Lazy Loading, Custom Arrows and Dots, Animation Effects)
 11. npm i @emailjs/browser (use to send message to email)
+
+Here are pics of my personal Portfolio
+
+Home 
+![Screenshot (374)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/b7b7b24e-d2cc-479a-9701-94c5d8f49437)
+
+
+![Screenshot (375)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/cde4bcb4-c2da-4afd-bc18-1a3683d5b135)
