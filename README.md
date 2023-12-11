@@ -28,6 +28,8 @@ Project Page:-
 ![Screenshot (377)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/a753c288-2e0a-4119-b5bf-c2a445d9bb32)
 ![Screenshot (378)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/ae0f1625-edc7-433c-9c86-a216eb836013)
 
+Resume Page:-
+
 ![Screenshot (379)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/27a55912-b61a-4d59-a9e5-de6c4aa9673b)
 ![Screenshot (380)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/4da60b29-2789-4861-a060-40f8d1a632f6)
 
