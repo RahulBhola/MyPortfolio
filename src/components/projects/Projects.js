@@ -1,0 +1,63 @@
+import React from 'react'
+import Title from '../layouts/Title'
+import { projectOne, projectTwo, projectThree,projectFour, projectFive, projectSix} from "../../assets/index";
+import ProjectsCard from './ProjectsCard';
+
+const Projects = () => {
+  return (
+    <section
+      id="projects"
+      className="w-full py-20 border-b-[1px] border-b-black"
+    >
+      <div className="flex justify-center items-center text-center">
+        <Title
+          title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
+          des="My Projects"
+        />
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+        <ProjectsCard
+          title="SPOTIFY CLONE"
+          des="Used React for Frontend, node and mongoDb for Backend. Postman for backend verification.
+          This project allow users to upload and listen song through API."
+          src={projectOne}
+          projectLink="https://github.com/RahulBhola/Spotify-Clone/"
+        />
+        <ProjectsCard
+          title="ATM-Simulator"
+          des=" Created an exact ATM-Simulator with the help of Java and Java Springboot 
+          Managed data with the help of MySQL for signup, Login, Deposit, Withdraw, FastCash, and Many More!"
+          src={projectTwo}
+          projectLink="https://github.com/RahulBhola/ATM-Simulator-Project"
+        />
+        <ProjectsCard
+          title="Shortest Path Finder"
+          des="Constructed an application to find Shortest Path between source and 
+          Destination by using Dijkstra's algorithm. This project is taken from the reference of google maps working flow."
+          src={projectThree}
+          projectLink="https://github.com/RahulBhola/dijkastra-s-algorithm-project/tree/main/src"
+        />
+        <ProjectsCard
+          title="Netflix Data Visualization"
+          des=" Used Visualization tool Tableau for implementing Netflix data from Kaggle.com. It basically shows data of particular TV shows and Movie watched per year or a month."
+          src={projectFour}
+          projectLink="https://github.com/RahulBhola/Netflix-Data-Tableau"
+        />
+        <ProjectsCard
+          title="Personal Portfolio"
+          des="Created a personal portfolio using React, Tailwindcss, contact form details on email to website holder. Shows everything that I can do in this project."
+          src={projectFive}
+          projectLink="https://github.com/RahulBhola/MyPortfolio"
+        />
+        <ProjectsCard
+          title="Sudoku Solver"
+          des=" Created this project with the help of DSA (Data Structure and Algorithm), Backtracking Concept."
+          src={projectSix}
+          projectLink="https://github.com/RahulBhola/SudokuSolver"
+        />
+      </div>
+    </section>
+  );
+}
+
+export default Projects;
