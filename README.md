@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# MyPortfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Command Used:
+1. npx create-react-app portfolio (for installing node)
+2. nom run start (for starting our main react project)
+3. npm install -D tailwindcss (for using tailwindcss which is used to make attactive css)
+4. npm tailwindcss init
+5. npm i react-scroll (for scrolling to home, feature and many more component after clicking on home and feature on navbar)
+6. npm i react-simple-typewriter (for loading multiple typing styling after a particular time)
+7. npm install react-icons --save (so that we can use icons)
+8. npm i framer-motion(use to create interactive animations in React applications)
+9. npm install react-slick --save
+10. npm install slick-carousel --save (used for Responsive Design, Customizable Settings, Touch and Swipe Support, Lazy Loading, Custom Arrows and Dots, Animation Effects)
+11. npm i @emailjs/browser (use to send message to email)
 
-## Available Scripts
+Here are pics of my personal Portfolio
 
-In the project directory, you can run:
+Home Page:-
 
-### `npm start`
+![Screenshot (374)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/b7b7b24e-d2cc-479a-9701-94c5d8f49437)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Features Page:-
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot (375)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/cde4bcb4-c2da-4afd-bc18-1a3683d5b135)
 
-### `npm test`
+Project Page:-
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (377)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/a753c288-2e0a-4119-b5bf-c2a445d9bb32)
+![Screenshot (378)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/ae0f1625-edc7-433c-9c86-a216eb836013)
 
-### `npm run build`
+Resume Page:-
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (379)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/27a55912-b61a-4d59-a9e5-de6c4aa9673b)
+![Screenshot (380)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/4da60b29-2789-4861-a060-40f8d1a632f6)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Certificate Page:-
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (381)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/891c2472-a0c3-4311-a213-e448ed54ac68)
 
-### `npm run eject`
+Contact Page:-
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot (382)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/e9a167d6-6450-4241-bdde-a02e78c501dd)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+VedioCV:- 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (383)](https://github.com/RahulBhola/MyPortfolio/assets/104344946/e6d12e7a-07b2-4984-bae0-da705791dbf3)
