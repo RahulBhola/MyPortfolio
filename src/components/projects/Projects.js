@@ -1,7 +1,17 @@
-import React from 'react'
-import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree,projectFour, projectFive, projectSix} from "../../assets/index";
-import ProjectsCard from './ProjectsCard';
+import React from "react";
+import Title from "../layouts/Title";
+import {
+  projectOne,
+  projectTwo,
+  projectThree,
+  projectFour,
+  projectFive,
+  projectSix,
+  projectZero,
+  projectSeven,
+  projectEight,
+} from "../../assets/index";
+import ProjectsCard from "./ProjectsCard";
 
 const Projects = () => {
   return (
@@ -17,6 +27,21 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
+          title="Face Recognition System"
+          des=" Developed a robust facial recognition system using Python, incorporating data science and machine learning 
+          concepts."
+          src={projectSeven}
+          projectLink="https://github.com/RahulBhola/FacialRecognitionSystem"
+        />
+        <ProjectsCard
+          title="Hair Salon Website"
+          des=" Developed a fully functional Website using React and tailwindcss, demonstrating proficiency in frontend 
+          technologies and responsive design."
+          src={projectZero}
+          projectLink="https://github.com/RahulBhola/HairSalonWebsite"
+          webLink="https://rahulbhola.github.io/HairSalonWebsite/"
+        />
+        <ProjectsCard
           title="SPOTIFY CLONE"
           des="Used React for Frontend, node and mongoDb for Backend. Postman for backend verification.
           This project allow users to upload and listen song through API."
@@ -29,6 +54,13 @@ const Projects = () => {
           Managed data with the help of MySQL for signup, Login, Deposit, Withdraw, FastCash, and Many More!"
           src={projectTwo}
           projectLink="https://github.com/RahulBhola/ATM-Simulator-Project"
+        />
+        <ProjectsCard
+          title="Python Weather App"
+          des=" Acquired and applied advanced skills in Python programming, demonstrating competence in leveraging 
+          dependencies to create a sophisticated Weather App"
+          src={projectEight}
+          projectLink="https://github.com/RahulBhola/PythonWeatherApp"
         />
         <ProjectsCard
           title="Shortest Path Finder"
@@ -48,6 +80,7 @@ const Projects = () => {
           des="Created a personal portfolio using React, Tailwindcss, contact form details on email to website holder. Shows everything that I can do in this project."
           src={projectFive}
           projectLink="https://github.com/RahulBhola/MyPortfolio"
+          webLink="https://rahulbhola.github.io/MyPortfolio/"
         />
         <ProjectsCard
           title="Sudoku Solver"
@@ -58,6 +91,6 @@ const Projects = () => {
       </div>
     </section>
   );
-}
+};
 
 export default Projects;

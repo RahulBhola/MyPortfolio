@@ -1,12 +1,12 @@
 import { AiFillAppstore } from "react-icons/ai";
-import {SiWikidata} from "react-icons/si";
+import { SiWikidata } from "react-icons/si";
 
 // Features Data
 export const featuresData = [
   {
     id: 1,
     title: "Software Developer",
-    des: "Having knowledge of C++, Java, Linux, SQL, MySQL, git/github and Data Strucutre and Algoritm.",
+    des: "Having knowledge of C, C++, Java, Linux, SQL, MySQL, git/github and Data Strucutre and Algoritm.",
   },
   {
     id: 2,
@@ -18,6 +18,6 @@ export const featuresData = [
     id: 3,
     icon: <SiWikidata />,
     title: "Data Analytics",
-    des: "Having knowledge of Excel, R Programming, Tableau, Predictive Analysis, and Big Data.",
+    des: "Having knowledge of Excel, R Programming, Tableau, Predictive Analysis, Scala, Spark and Big Data.",
   },
 ];

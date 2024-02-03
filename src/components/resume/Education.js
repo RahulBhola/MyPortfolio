@@ -47,9 +47,8 @@ const Education = () => {
           <ResumeCard
             title="Competitive Coding"
             subTitle="CipherSchools - Jun-July (2023)"
-            result="Inida"
-            des=
-            "Participants at Cipher School share a profound commitment to their cohorts and the individuals that comprise them."
+            result="India"
+            des="Participants at Cipher School share a profound commitment to their cohorts and the individuals that comprise them."
           />
           <ResumeCard
             title="Flutter"

@@ -11,7 +11,7 @@ const Footer = () => {
       </div>
         <div className="flex gap-4">
         <span className="bannerDownload" onClick={() => window.open("https://www.youtube.com/watch?v=ci6A19XMVtQ", "_blank", "noopener noreferrer")}>
-          Vedio CV
+          Video CV
         </span>
         </div>
       </div>

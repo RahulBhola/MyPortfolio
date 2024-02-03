@@ -2,6 +2,9 @@ import logo from "./images/logo.png";
 import logo1 from "./images/logo1.png";
 import logo2 from "./images/logo2.png";
 import bannerImg from "./images/bannerImg.png";
+import projectSeven from "./images/projects/projectSeven.png"
+import projectEight from "./images/projects/projectEight.png"
+import projectZero from "./images/projects/projectZero.png";
 import projectOne from "./images/projects/projectOne.png";
 import projectTwo from "./images/projects/projectTwo.png";
 import projectThree from "./images/projects/projectThree.png";
@@ -14,6 +17,7 @@ import certificateThree from "./images/certificate/certificateThree.png";
 import certificateFour from "./images/certificate/certificateFour.png";
 import certificateFive from "./images/certificate/certificateFive.png";
 import certificateSix from "./images/certificate/certificateSix.png";
+import certificateSeven from "./images/certificate/certificateSeven.png";
 import quote from "./images/certificate/quote.png";
 import contactImg from "./images/contact/contactImg.jpg";
 import css from "./tech/css.png";
@@ -50,6 +54,9 @@ export {
   logo1,
   logo2,
   bannerImg,
+  projectSeven,
+  projectEight,
+  projectZero,
   projectOne,
   projectTwo,
   projectThree,
@@ -62,6 +69,7 @@ export {
   certificateFour,
   certificateFive,
   certificateSix,
+  certificateSeven,
   quote,
   contactImg
 };

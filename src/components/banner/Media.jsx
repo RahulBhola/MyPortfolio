@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaGithub, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { SiLeetcode,SiGeeksforgeeks } from "react-icons/si";
-//import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";   , FaReact
+
 const Media = () => {
 
   return (
@@ -33,22 +33,11 @@ const Media = () => {
             DOWNLOAD RESUME
           </h2>
           <div className="flex gap-4">
-            <a className="bannerDownload" href="RahulBhola.pdf" download="RahulBhola.pdf">
+            <a className="bannerDownload" href="ofCampusResume.pdf" download="ofCampusResume.pdf">
               Download
             </a>
           </div>
         </div>
-            {/*
-            <span className="bannerIcon">
-              <SiNextdotjs />
-            </span>
-            <span className="bannerIcon">
-              <SiTailwindcss />
-            </span>
-            <span className="bannerIcon">
-              <SiFigma />
-            </span>
-            */}
       </div>
   )
 }
