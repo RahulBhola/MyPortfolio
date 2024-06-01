@@ -6,7 +6,7 @@ export const featuresData = [
   {
     id: 1,
     title: "Software Developer",
-    des: "Having knowledge of C, C++, Java, Linux, SQL, MySQL, git/github and Data Strucutre and Algoritm.",
+    des: "Having knowledge of C, C++, Java, SQL, MySQL, git/github and Data Strucutre and Algoritm.",
   },
   {
     id: 2,

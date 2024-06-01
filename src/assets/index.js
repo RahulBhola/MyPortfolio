@@ -11,6 +11,7 @@ import projectThree from "./images/projects/projectThree.png";
 import projectFour from "./images/projects/projectFour.png";
 import projectFive from "./images/projects/projectFive.png";
 import projectSix from "./images/projects/projectSix.png";
+import projectNine from "./images/projects/projectNine.png";
 import certificateOne from "./images/certificate/certificateOne.png";
 import certificateTwo from "./images/certificate/certificateTwo.png";
 import certificateThree from "./images/certificate/certificateThree.png";
@@ -63,6 +64,7 @@ export {
   projectFour,
   projectFive,
   projectSix,
+  projectNine,
   certificateOne,
   certificateTwo,
   certificateThree,

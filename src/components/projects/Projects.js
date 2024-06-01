@@ -10,6 +10,7 @@ import {
   projectZero,
   projectSeven,
   projectEight,
+  projectNine
 } from "../../assets/index";
 import ProjectsCard from "./ProjectsCard";
 
@@ -26,6 +27,12 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+        <ProjectsCard
+          title="Optimizing reomte patient monetering app"
+          des="Consult doctors online, manage blood donations & requests, book lab tests, predict diabetes risk, and find specialists."
+          src={projectNine}
+          projectLink="https://github.com/RahulBhola/DoctorAtDoorStep"
+        />
         <ProjectsCard
           title="Face Recognition System"
           des=" Developed a robust facial recognition system using Python, incorporating data science and machine learning 
