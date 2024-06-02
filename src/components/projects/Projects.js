@@ -32,6 +32,7 @@ const Projects = () => {
           des="Consult doctors online, manage blood donations & requests, book lab tests, predict diabetes risk, and find specialists."
           src={projectNine}
           projectLink="https://github.com/RahulBhola/DoctorAtDoorStep"
+          webLink="https://remote-patient-monitor.netlify.app/"
         />
         <ProjectsCard
           title="Face Recognition System"
