@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className="w-full h-24 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">
       <div className='flex flex-row items-center'>
         <img src={logo} alt="logo" className='w-10 lgl:w-16 lgl:h-16 ml-1 lgl:ml-5'/>
-        <img src={logo1} alt="logo1" className='w-10 lgl:w-24 lgl:h-14 ml-1 lgl:m-2'/>
+        <img src={logo1} alt="logo1" className='w-10 lgl:w-20 lgl:h-20 ml-1 lgl:m-2'/>
       </div>
       <div>
         <ul className="hidden mdl:inline-flex items-center gap-6 lg:gap-10">

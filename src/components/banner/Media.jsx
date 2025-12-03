@@ -33,7 +33,7 @@ const Media = () => {
             DOWNLOAD RESUME
           </h2>
           <div className="flex gap-4">
-            <a className="bannerDownload" href="ofCampusResume.pdf" download="ofCampusResume.pdf">
+            <a className="bannerDownload" href="RahulBholaResume.pdf" download="RahulBholaResume.pdf">
               Download
             </a>
           </div>

@@ -4,7 +4,7 @@ import Media from "./Media";
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Software Developer.", "Full Stack Developer.", "Data Analytics."],
+    words: ["Backend Engineering.", "API Development.", "Software Developer.", "Full-Stack Web Development.", "Cloud & Solution Deployment."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -27,11 +27,9 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          I am Enthusiastic about creating and implementing efficient and
-          maintainable code. Skilled at finding important information from
-          complicated data and showing it through helpful visualizations.
-          Enthusiastic about using data-driven methods to solve problems in
-          business and make a real impact.
+          I am a backend-focused software engineer skilled in building scalable, reliable, and maintainable systems using C#, .NET Core, ASP.NET MVC, Web API, and SQL Server. 
+          With strong experience across React, Angular, and modern frontend workflows, I deliver complete end-to-end features that integrate seamlessly with backend services. 
+          I work extensively with Azure and DevOps pipelines to deploy secure, automated, and cloud-ready solutions. 
         </p>
       </div>
       {/* Media */}

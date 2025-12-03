@@ -35,6 +35,7 @@ import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 import cpp from "./tech/cpp.png";
 import postman from "./tech/postman.png";
+import cropDeal from "./tech/CropDeal.png"
 
 export {
   css,
@@ -73,5 +74,6 @@ export {
   certificateSix,
   certificateSeven,
   quote,
-  contactImg
+  contactImg,
+  cropDeal
 };
